@@ -2,7 +2,7 @@ Simple API that reads time using Flask and requests modules
 
 -- how to run it?--
 
-Run the script with the server part(api_test.py)
+1. Run the script with the server part(api_test.py)
 
 The console should display something like this:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -14,7 +14,7 @@ Press CTRL+C to quit
  * Debugger PIN: 109-948-541
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Copy the HTTP address(in my case, http://124.0.0.1:2000) into the browser while the server(script) runs. The browser should display the current time.
+2. Copy the HTTP address(in my case, http://124.0.0.1:2000) into the browser while the server(script) runs. The browser should display the current time.
 
 I haven't tested the client script yet, but it works on the browser. YEY!
 
