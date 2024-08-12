@@ -14,9 +14,11 @@ Press CTRL+C to quit
  * Debugger PIN: 109-948-541
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. Copy the HTTP address(in my case, http://124.0.0.1:2000) into the browser while the server(script) runs. The browser should display the current time.
+There are two ways to test it
 
-I haven't tested the client script yet, but it works on the browser. YEY!
+2.1 Copy the HTTP address(in my case, http://124.0.0.1:2000) into the browser while the server(script) runs. The browser should display the current time.
+2.2 Run client script while server(api_test.py) is running; the console should print the current time.
+
 
 
 
