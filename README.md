@@ -17,6 +17,7 @@ Press CTRL+C to quit
 There are two ways to test it.
 
 2.1 Copy the HTTP address(in my case, http://124.0.0.1:2000) into the browser while the server(script) runs. The browser should display the current time.
+
 2.2 In Api_client_request.py, paste the HTTP address into the URL variable and run the script. The console should print the current time.
 
 
